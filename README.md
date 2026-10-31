@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey there! 👋 I'm Rinsa Fathima
 
-<!--
-**rinsafathma/rinsafathma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 BTech Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a Computer Science student passionate about programming, software development and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+- 🎓 BTech CSE Student
+- 🐍 Interested in Python Development
+- 🌐 Exploring Django and Web Development
+- 🚀 Always learning and building new things
+- 💡 Interested in solving problems through technology
+
+### 🛠️ Technologies & Tools
+- Python
+- C Programming
+- Django
+- HTML & CSS
+- Git & GitHub
+
+### 🎯 My Goals
+- Build real-world projects
+- Improve my coding skills
+- Explore new technologies
+- Grow as a software developer
+
+### 📫 Connect With Me
+- GitHub: [@rinsafathma](https://github.com/rinsafathma)
+
+---
+
+⭐ *Thanks for visiting my profile!*
