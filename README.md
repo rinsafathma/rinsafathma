@@ -10,14 +10,23 @@ Welcome to my GitHub profile! I'm a Computer Science student passionate about pr
 - 🌐 Exploring Django and Web Development
 - 🚀 Always learning and building new things
 - 💡 Interested in solving problems through technology
-
 ### 🛠️ Technologies & Tools
+**Programming Languages**
 - Python
-- C Programming
-- Django
-- HTML & CSS
-- Git & GitHub
+- C
+- JavaScript
 
+**Frameworks**
+- Django
+
+**Web Technologies**
+- HTML5
+- CSS3
+
+**Developer Tools**
+- Git
+- GitHub
+- VS Code
 ### 🎯 My Goals
 - Build real-world projects
 - Improve my coding skills
